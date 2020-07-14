@@ -85,15 +85,11 @@ PUBLIC_KEY=LS0tLS1CRUd
 
 ```
 
-```
-
 cd config
 openssl
 genrsa -out private.key 4096
 rsa -in private.key -pubout -out public.key
 exit
-
-```
 
 ```
 
