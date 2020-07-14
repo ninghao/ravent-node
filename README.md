@@ -65,15 +65,14 @@ PUBLIC_KEY=LS0tLS1CRUd
 ### 2：导入演示数据
 
 在之前创建的 ravent 数据仓库里，导入在 _ravent-node-demo_ 这个项目里 _database/ravent.sql_ 这个文件。这样这个 ravent 数据仓库里会出现应用需要的数据表，数据表里面会有一些演示数据。
-[Image: image.png]
 
 ### 3：复制上传文件
 
-在* ravent-node-demo* 项目里，找到 _uploads_ 目录，把这个目录复制一份放到我们的 _ravent-node_ 这个项目的根目录下面。这个 _uploads_ 里面的东西就是上传的图片与用户头像的原始文件，以及它们的调整尺寸之后的文件。
+在 _ravent-node-demo_ 项目里，找到 _uploads_ 目录，把这个目录复制一份放到我们的 _ravent-node_ 这个项目的根目录下面。这个 _uploads_ 里面的东西就是上传的图片与用户头像的原始文件，以及它们的调整尺寸之后的文件。
 
 ## 接口测试
 
-测试应用接口的时候，可以使用 Insomnia 这个客户端软件。在测试的时候你需要创建一些对接口的请求，然后要做一些配置，比如请求的地址，请求里带的数据等等。你可以在 Insomnia 里面导入在* ravent-node-demo* 这个项目里的 _insomnia-workspace/ravent.yaml_ 这个文件，这样会为你创建好测试应用接口的时候需要的请求。
+测试应用接口的时候，可以使用 Insomnia 这个客户端软件。在测试的时候你需要创建一些对接口的请求，然后要做一些配置，比如请求的地址，请求里带的数据等等。你可以在 Insomnia 里面导入在 _ravent-node-demo_ 这个项目里的 _insomnia-workspace/ravent.yaml_ 这个文件，这样会为你创建好测试应用接口的时候需要的请求。
 
 ![Insomnia](https://raw.githubusercontent.com/ninghao/ravent-node/master/assets/images/Snip20200714_5.png)
 
