@@ -4,7 +4,7 @@
 
 ## 本地开发
 
-### **1：把克隆到本地**
+### **1：把项目克隆到本地**
 
 ```
 git clone https://github.com/ninghao/ravent-node
