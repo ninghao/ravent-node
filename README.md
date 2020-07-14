@@ -56,7 +56,7 @@ PUBLIC_KEY=LS0tLS1CRUd
 
 在 [ravent-node-demo](https://github.com/ninghao/ravent-node-demo) 这个项目里包含了这个项目的演示数据，你可以把这个项目下载到本地，如果你觉得慢，也可以申请加入宁皓网的 QQ 群：240746680，然后在群文件里下载。
 
-!(数据仓库)[https://raw.githubusercontent.com/ninghao/ravent-node/master/assets/images/Snip20200714_3.png]
+![数据仓库](https://raw.githubusercontent.com/ninghao/ravent-node/master/assets/images/Snip20200714_3.png)
 
 ### 1：新建一个数据仓库
 
@@ -75,7 +75,7 @@ PUBLIC_KEY=LS0tLS1CRUd
 
 测试应用接口的时候，可以使用 Insomnia 这个客户端软件。在测试的时候你需要创建一些对接口的连接，然后要做一些配置，比如请求的地址，请求里带的数据等等。你可以在 Insomnia 里面导入在* ravent-node-demo* 这个项目里的 _insomnia-workspace/ravent.yaml_ 这个文件，这样会为你创建好测试应用接口的时候需要的连接。
 
-!(Insomnia)[https://raw.githubusercontent.com/ninghao/ravent-node/master/assets/images/Snip20200714_5.png]
+![Insomnia](https://raw.githubusercontent.com/ninghao/ravent-node/master/assets/images/Snip20200714_5.png)
 
 ## 生成密钥
 
