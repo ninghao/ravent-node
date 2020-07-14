@@ -73,7 +73,7 @@ PUBLIC_KEY=LS0tLS1CRUd
 
 ## 接口测试
 
-测试应用接口的时候，可以使用 Insomnia 这个客户端软件。在测试的时候你需要创建一些对接口的连接，然后要做一些配置，比如请求的地址，请求里带的数据等等。你可以在 Insomnia 里面导入在* ravent-node-demo* 这个项目里的 _insomnia-workspace/ravent.yaml_ 这个文件，这样会为你创建好测试应用接口的时候需要的连接。
+测试应用接口的时候，可以使用 Insomnia 这个客户端软件。在测试的时候你需要创建一些对接口的请求，然后要做一些配置，比如请求的地址，请求里带的数据等等。你可以在 Insomnia 里面导入在* ravent-node-demo* 这个项目里的 _insomnia-workspace/ravent.yaml_ 这个文件，这样会为你创建好测试应用接口的时候需要的请求。
 
 ![Insomnia](https://raw.githubusercontent.com/ninghao/ravent-node/master/assets/images/Snip20200714_5.png)
 
